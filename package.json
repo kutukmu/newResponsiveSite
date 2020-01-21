@@ -1,0 +1,21 @@
+{
+  "name": "Bloggerwebsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kutukmu/NewResponsiveWebsite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://kutukmu.github.io/NewResponsiveWebsite",
+  "bugs": {
+    "url": "https://github.com/kutukmu/NewResponsiveWebsite/issues"
+  },
+  "homepage": "https://github.com/kutukmu/NewResponsiveWebsite#readme"
+}
