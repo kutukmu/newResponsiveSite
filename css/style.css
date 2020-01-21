@@ -4,6 +4,10 @@
   transition: all 0.2s ease-out;
 }
 
+body {
+  overflow-x: hidden;
+}
+
 :root {
   --text-gray: #3f4954;
   --text-light: #686666da;
@@ -138,7 +142,7 @@ button.btn {
 
 /*--Side title --*/
 main .site-title {
-  background: url(../../assests/Background-image.png);
+  background: url(../assests/Background-image.png);
   background-size: cover;
   height: 120vh;
   text-align: center;
