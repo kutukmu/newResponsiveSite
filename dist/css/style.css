@@ -4,8 +4,9 @@
   transition: all 0.2s ease-out;
 }
 
-body,html {
-  overflow: hidden;
+body,
+html {
+  overflow-x: hidden;
 }
 
 :root {
